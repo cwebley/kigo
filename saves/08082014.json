@@ -1,0 +1,260 @@
+{
+    players: [
+        {
+            characters: [
+                {
+                    current_record: {
+                        losses: 2, 
+                        wins: 1
+                    }, 
+                    name: fulgore, 
+                    overall_record: {
+                        losses: 2, 
+                        wins: 1
+                    }, 
+                    overall_streak: 1, 
+                    streak: 0, 
+                    value: 11
+                }, 
+                {
+                    current_record: {
+                        losses: 2, 
+                        wins: 1
+                    }, 
+                    name: spinal, 
+                    overall_record: {
+                        losses: 2, 
+                        wins: 1
+                    }, 
+                    overall_streak: 1, 
+                    streak: 0, 
+                    value: 4
+                }, 
+                {
+                    current_record: {
+                        losses: 3, 
+                        wins: 4
+                    }, 
+                    name: wulf, 
+                    overall_record: {
+                        losses: 3, 
+                        wins: 4
+                    }, 
+                    overall_streak: 2, 
+                    streak: 0, 
+                    value: 7
+                }, 
+                {
+                    current_record: {
+                        losses: 3, 
+                        wins: 6
+                    }, 
+                    name: orchid, 
+                    overall_record: {
+                        losses: 3, 
+                        wins: 6
+                    }, 
+                    overall_streak: 2, 
+                    streak: 2, 
+                    value: 2
+                }, 
+                {
+                    current_record: {
+                        losses: 1, 
+                        wins: 5
+                    }, 
+                    name: glacius, 
+                    overall_record: {
+                        losses: 1, 
+                        wins: 5
+                    }, 
+                    overall_streak: 4, 
+                    streak: 1, 
+                    value: 2
+                }, 
+                {
+                    current_record: {
+                        losses: 2, 
+                        wins: 1
+                    }, 
+                    name: jago, 
+                    overall_record: {
+                        losses: 2, 
+                        wins: 1
+                    }, 
+                    overall_streak: 1, 
+                    streak: 0, 
+                    value: 8
+                }, 
+                {
+                    current_record: {
+                        losses: 3, 
+                        wins: 3
+                    }, 
+                    name: thunder, 
+                    overall_record: {
+                        losses: 3, 
+                        wins: 3
+                    }, 
+                    overall_streak: 2, 
+                    streak: 0, 
+                    value: 6
+                }, 
+                {
+                    current_record: {
+                        losses: 1, 
+                        wins: 4
+                    }, 
+                    name: sadira, 
+                    overall_record: {
+                        losses: 1, 
+                        wins: 4
+                    }, 
+                    overall_streak: 3, 
+                    streak: 3, 
+                    value: 5
+                }
+            ], 
+            current_record: {
+                losses: 17, 
+                wins: 25
+            }, 
+            name: g, 
+            overall_record: {
+                losses: 17, 
+                wins: 25
+            }, 
+            overall_streak: 8, 
+            score: 100, 
+            streak: 1
+        }, 
+        {
+            characters: [
+                {
+                    current_record: {
+                        losses: 3, 
+                        wins: 0
+                    }, 
+                    name: fulgore, 
+                    overall_record: {
+                        losses: 3, 
+                        wins: 0
+                    }, 
+                    overall_streak: 0, 
+                    streak: 0, 
+                    value: 10
+                }, 
+                {
+                    current_record: {
+                        losses: 5, 
+                        wins: 3
+                    }, 
+                    name: spinal, 
+                    overall_record: {
+                        losses: 5, 
+                        wins: 3
+                    }, 
+                    overall_streak: 2, 
+                    streak: 0, 
+                    value: 11
+                }, 
+                {
+                    current_record: {
+                        losses: 0, 
+                        wins: 6
+                    }, 
+                    name: wulf, 
+                    overall_record: {
+                        losses: 0, 
+                        wins: 6
+                    }, 
+                    overall_streak: 6, 
+                    streak: 6, 
+                    value: 1
+                }, 
+                {
+                    current_record: {
+                        losses: 4, 
+                        wins: 0
+                    }, 
+                    name: orchid, 
+                    overall_record: {
+                        losses: 4, 
+                        wins: 0
+                    }, 
+                    overall_streak: 0, 
+                    streak: 0, 
+                    value: 10
+                }, 
+                {
+                    current_record: {
+                        losses: 1, 
+                        wins: 1
+                    }, 
+                    name: glacius, 
+                    overall_record: {
+                        losses: 1, 
+                        wins: 1
+                    }, 
+                    overall_streak: 1, 
+                    streak: 1, 
+                    value: 10
+                }, 
+                {
+                    current_record: {
+                        losses: 3, 
+                        wins: 2
+                    }, 
+                    name: jago, 
+                    overall_record: {
+                        losses: 3, 
+                        wins: 2
+                    }, 
+                    overall_streak: 2, 
+                    streak: 0, 
+                    value: 6
+                }, 
+                {
+                    current_record: {
+                        losses: 6, 
+                        wins: 2
+                    }, 
+                    name: thunder, 
+                    overall_record: {
+                        losses: 6, 
+                        wins: 2
+                    }, 
+                    overall_streak: 1, 
+                    streak: 0, 
+                    value: 8
+                }, 
+                {
+                    current_record: {
+                        losses: 3, 
+                        wins: 3
+                    }, 
+                    name: sadira, 
+                    overall_record: {
+                        losses: 3, 
+                        wins: 3
+                    }, 
+                    overall_streak: 3, 
+                    streak: 0, 
+                    value: 7
+                }
+            ], 
+            current_record: {
+                losses: 25, 
+                wins: 17
+            }, 
+            name: bj, 
+            overall_record: {
+                losses: 25, 
+                wins: 17
+            }, 
+            overall_streak: 4, 
+            score: 96, 
+            streak: 0
+        }
+    ]
+}
